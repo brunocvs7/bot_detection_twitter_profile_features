@@ -15,3 +15,4 @@ matplotlib
 seaborn
 boruta
 tqdm
+statsmodels
